@@ -9,11 +9,7 @@
   </a>
 </div>
 
-
-
 <h2 align="center">⚡ Technologies and Tools</h2>
-
-
 
   <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50"/>
@@ -23,12 +19,11 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original-wordmark.svg"  height="50"/>
+
   </div>
 
-
 <h2 align="center">📊 GitHub Stats</h2>
-
-
 
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=JossAbreu&theme=dark&show_icons=true" width="400">
@@ -38,10 +33,7 @@
 ![Views](https://komarev.com/ghpvc/?username=JossAbreu&label=Views&color=blue&style=plastic)
 ![GitHub followers](https://img.shields.io/github/followers/JossAbreu?style=social)
 
-
  <h2 align="center">📌 About me</h2>
-
- 
 
 - 💻 Full Stack Developer
 - 🚀 Passionate about **Vue.js, Node.js and SQL Server**
@@ -50,8 +42,7 @@
 
 <h2 align="center">Contact me</h2>
 
- 
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/josue-alexander-abreu-de-la-rosa-818591186/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/josue-alexander-abreu-de-la-rosa-818591186/)  
  [![GitHub](https://img.shields.io/badge/GitHub-Perfil-black?style=for-the-badge&logo=github)](https://github.com/JossAbreu)
 
 </div>
