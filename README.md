@@ -3,8 +3,6 @@
 <div align="center">
   <img src="https://media.giphy.com/media/SHjOSDkKZ18qOHA5B5/giphy.gif?cid=790b7611urtba5mhcwy8crf3ucplvkv2ypzjns4vgtbkv8jm&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="200">
 
-## 🚀 My Portfolio
-
   <a href="https://portfolio-v2-nu-woad.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/🚀%20Visit%20My%20Portfolio-FF5733?style=for-the-badge&logo=Firefox&logoColor=white">
   </a>
