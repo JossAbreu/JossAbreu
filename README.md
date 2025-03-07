@@ -31,7 +31,7 @@
 </div>
 <div align="center">
 
-<a href="https://portfolio-v2-nu-woad.vercel.app"><h2 align="center">🚀My Portfolio🚀</h2></a>
+<a href="https://portfolio-v2-nu-woad.vercel.app"><h2>🚀My Portfolio🚀</h2></a>
 <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif?cid=790b7611pkc41bl72rfzgvzn5guw9jpyx31o2hvie0q0lmxm&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="200">
 
 ### 📌 About me
