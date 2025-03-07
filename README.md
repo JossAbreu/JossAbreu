@@ -23,6 +23,7 @@
 <div align="center">
 
 ![GitHub Activity Graph](https://github-readme-stats.vercel.app/api?username=JossAbreu&theme=dark&show_icons=true)
+<img src = "https://github-readme-streak-stats.herokuapp.com?user=JossAbreu&theme=dark&hide_border=true" width = 400>
 
 ![Views](https://komarev.com/ghpvc/?username=JossAbreu&label=Views&color=blue&style=plastic)
 ![GitHub followers](https://img.shields.io/github/followers/JossAbreu?style=social)
