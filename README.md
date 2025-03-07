@@ -26,7 +26,7 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=JossAbreu&theme=dark&show_icons=true" width="400">
+    <img src = "https://github-readme-stats.vercel.app/api?username=JossAbreu&show_icons=true&theme=radical" width = 400>
     <img src="https://github-readme-streak-stats.herokuapp.com?user=JossAbreu&theme=dark&hide_border=true" width="400">
   </div>
 
